@@ -327,6 +327,7 @@ fastify.post('/create/student', async (request, reply) => {
 // server start (npm start)
 try {
     fastify.listen({port: 3001})
+    console.log("fffffffffffffffff")
 } catch (err) {
     fastify.log.error(err)
     process.exit(1)
