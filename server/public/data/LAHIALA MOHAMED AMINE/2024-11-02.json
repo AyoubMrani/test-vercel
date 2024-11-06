@@ -1,0 +1,248 @@
+[
+  {
+    "id": 1,
+    "nom": "AIT AGHZZAF",
+    "prenom": "IMANE",
+    "isAbsent": false
+  },
+  {
+    "id": 2,
+    "nom": "AIT MEZIANE",
+    "prenom": "IMANE",
+    "isAbsent": false
+  },
+  {
+    "id": 3,
+    "nom": "AYAD",
+    "prenom": "NAJLAE",
+    "isAbsent": false
+  },
+  {
+    "id": 4,
+    "nom": "BAHHA",
+    "prenom": "SAFAE",
+    "isAbsent": false
+  },
+  {
+    "id": 5,
+    "nom": "BELHADJ",
+    "prenom": "HATIM",
+    "isAbsent": false
+  },
+  {
+    "id": 6,
+    "nom": "BENZARGHIGH",
+    "prenom": "SALMA",
+    "isAbsent": false
+  },
+  {
+    "id": 7,
+    "nom": "BOUCHOUR",
+    "prenom": "FATIMA ZAHRAE",
+    "isAbsent": false
+  },
+  {
+    "id": 8,
+    "nom": "BOUKHBIZA",
+    "prenom": "RANDA",
+    "isAbsent": false
+  },
+  {
+    "id": 9,
+    "nom": "EL ASRI",
+    "prenom": "YOUSEF",
+    "isAbsent": false
+  },
+  {
+    "id": 10,
+    "nom": "EL AYACHI",
+    "prenom": "HIBA",
+    "isAbsent": false
+  },
+  {
+    "id": 11,
+    "nom": "EL BAHI",
+    "prenom": "IKRAME",
+    "isAbsent": false
+  },
+  {
+    "id": 12,
+    "nom": "EL BAHLOUL",
+    "prenom": "IMANE",
+    "isAbsent": false
+  },
+  {
+    "id": 13,
+    "nom": "EL HADRI",
+    "prenom": "ANAS",
+    "isAbsent": false
+  },
+  {
+    "id": 14,
+    "nom": "EL KHAMISSI",
+    "prenom": "HANAN",
+    "isAbsent": false
+  },
+  {
+    "id": 15,
+    "nom": "EL KHAYATI",
+    "prenom": "AYA",
+    "isAbsent": false
+  },
+  {
+    "id": 16,
+    "nom": "ELHANI",
+    "prenom": "YASSMINE",
+    "isAbsent": false
+  },
+  {
+    "id": 17,
+    "nom": "ERRAMACH",
+    "prenom": "IHSANE",
+    "isAbsent": false
+  },
+  {
+    "id": 18,
+    "nom": "ERRIFI",
+    "prenom": "BOUTAINA",
+    "isAbsent": false
+  },
+  {
+    "id": 19,
+    "nom": "FARESS",
+    "prenom": "BOUGOTTAYA",
+    "isAbsent": false
+  },
+  {
+    "id": 20,
+    "nom": "HALIMI",
+    "prenom": "ASMAE",
+    "isAbsent": false
+  },
+  {
+    "id": 21,
+    "nom": "HAMMAS",
+    "prenom": "GHASSANE",
+    "isAbsent": false
+  },
+  {
+    "id": 22,
+    "nom": "HASNAOUI",
+    "prenom": "SAMIA",
+    "isAbsent": false
+  },
+  {
+    "id": 23,
+    "nom": "HRAMCHI",
+    "prenom": "FATIMA ZAHRA",
+    "isAbsent": false
+  },
+  {
+    "id": 24,
+    "nom": "KRIACH",
+    "prenom": "ASSIA",
+    "isAbsent": false
+  },
+  {
+    "id": 25,
+    "nom": "LAHMIDI",
+    "prenom": "ILYAS",
+    "isAbsent": false
+  },
+  {
+    "id": 26,
+    "nom": "MAIMOUNI",
+    "prenom": "FIRDAOUSSE",
+    "isAbsent": false
+  },
+  {
+    "id": 27,
+    "nom": "MAVAMBU",
+    "prenom": "YANNICK",
+    "isAbsent": false
+  },
+  {
+    "id": 28,
+    "nom": "MERHARI",
+    "prenom": "SALIMA",
+    "isAbsent": false
+  },
+  {
+    "id": 29,
+    "nom": "MORCHID",
+    "prenom": "CHOUROUK",
+    "isAbsent": false
+  },
+  {
+    "id": 30,
+    "nom": "MOUNAN",
+    "prenom": "RAYAN",
+    "isAbsent": false
+  },
+  {
+    "id": 31,
+    "nom": "MRANI ALAOUI",
+    "prenom": "AYOUB",
+    "isAbsent": false
+  },
+  {
+    "id": 32,
+    "nom": "NAJIHI",
+    "prenom": "NADA",
+    "isAbsent": true
+  },
+  {
+    "id": 33,
+    "nom": "OUANANE",
+    "prenom": "NOUHAYLA",
+    "isAbsent": false
+  },
+  {
+    "id": 34,
+    "nom": "OUSSAFOU",
+    "prenom": "RAOUYAE",
+    "isAbsent": false
+  },
+  {
+    "id": 35,
+    "nom": "OUSSAID",
+    "prenom": "AISSAM",
+    "isAbsent": true
+  },
+  {
+    "id": 36,
+    "nom": "RGUIG",
+    "prenom": "HAJAR",
+    "isAbsent": false
+  },
+  {
+    "id": 37,
+    "nom": "SABBAN",
+    "prenom": "CHAIMAE",
+    "isAbsent": false
+  },
+  {
+    "id": 38,
+    "nom": "SEBBANI",
+    "prenom": "WIAME",
+    "isAbsent": true
+  },
+  {
+    "id": 39,
+    "nom": "ZITANE",
+    "prenom": "FADOUA",
+    "isAbsent": true
+  },
+  {
+    "id": 40,
+    "nom": "Daoudi",
+    "prenom": "Maryem",
+    "isAbsent": false
+  },
+  {
+    "id": 41,
+    "nom": "FTOUHI",
+    "prenom": "INSSAF",
+    "isAbsent": false
+  }
+]

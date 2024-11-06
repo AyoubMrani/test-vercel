@@ -1,4 +1,14 @@
 {
+  "name": "fastify_server",
+  "version": "1.0.0",
+  "description": "A Fastify app deployed on Vercel",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "@fastify/cors": "^10.0.1",
     "@fastify/diagnostics-channel": "^5.0.0",
@@ -8,15 +18,8 @@
     "fastify": "^5.1.0",
     "json2csv": "^6.0.0-alpha.2"
   },
-  "name": "first_fastify",
-  "version": "1.0.0",
-  "description": ".",
-  "main": "index.js",
-  "type": "module",
-  "scripts": {
-    "start": "node index.js",
-    "dev": "node --watch src/server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "devDependencies": {
+    "nodemon": "^2.0.22"
   },
   "author": "",
   "license": "ISC"
